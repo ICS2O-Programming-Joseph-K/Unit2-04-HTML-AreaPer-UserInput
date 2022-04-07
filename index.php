@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+w<!DOCTYPE html>
 <html lang="en-ca">
   <head>
     <!-- Metadata -->
